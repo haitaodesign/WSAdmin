@@ -1,0 +1,28 @@
+{
+  "name": "wsadmin",
+  "version": "0.0.1",
+  "description": "'基于jQuery+Amaze UI+Less+RequireJS+Gulp+pjax的后台管理框架'",
+  "main": "index.js",
+  "scripts": {
+    "test": "ws"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haitaodesign/WSAdmin.git"
+  },
+  "keywords": [
+    "'jQuery",
+    "Amaze",
+    "UI",
+    "Less",
+    "RequireJS",
+    "Gulp",
+    "pjax'"
+  ],
+  "author": "'Li Haitao'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haitaodesign/WSAdmin/issues"
+  },
+  "homepage": "https://github.com/haitaodesign/WSAdmin#readme"
+}

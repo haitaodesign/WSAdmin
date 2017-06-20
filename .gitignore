@@ -1,0 +1,2 @@
+#忽略node模块
+/node_modules/*
